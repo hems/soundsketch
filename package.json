@@ -1,0 +1,24 @@
+{
+  "name": "sound_sketch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "polvo": "^0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hems/soundsketch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hems/soundsketch/issues"
+  },
+  "homepage": "https://github.com/hems/soundsketch"
+}
